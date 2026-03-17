@@ -21,8 +21,6 @@ This system automates traditional microscopic analysis, making it **faster, cons
 
 ## 🎥 Demo
 
-> *(Add your demo GIF here for best impact)*
-
 ![Demo](assets/demo.gif)
 ---
 
@@ -99,11 +97,9 @@ Annotated Output Video
 
 ## 📸 Output Preview
 
-> *(Add screenshots here)*
-
-![Detection](assets/detection.png)
-![Tracking](assets/tracking.png)
-![Final Output](assets/output.png)
+![Detection](assets/detection.jpg)
+![Tracking](assets/tracking.jpg)
+![Final Output](assets/output.jpg)
 
 ---
 
