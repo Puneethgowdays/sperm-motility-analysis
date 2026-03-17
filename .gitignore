@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# YOLO / training outputs
+runs/
+
+# datasets
+train/
+valid/
+test/
+datasets/
+
+# models
+*.pt
+
+# videos
+*.avi
+*.mp4
+
+# zip files
+*.zip
+
+# OS
+.DS_Store

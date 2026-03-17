@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Head', 'Neck', 'Tail']
+
+roboflow:
+  workspace: puneeth-gowda-6cafs
+  project: sperm-morphology-oemu9
+  version: 6
+  license: Private
+  url: https://app.roboflow.com/puneeth-gowda-6cafs/sperm-morphology-oemu9/6
