@@ -23,10 +23,7 @@ This system automates traditional microscopic analysis, making it **faster, cons
 
 > *(Add your demo GIF here for best impact)*
 
-```md
 ![Demo](assets/demo.gif)
-````
-
 ---
 
 ## 🔬 Problem Statement
@@ -104,11 +101,9 @@ Annotated Output Video
 
 > *(Add screenshots here)*
 
-```md
 ![Detection](assets/detection.png)
 ![Tracking](assets/tracking.png)
 ![Final Output](assets/output.png)
-```
 
 ---
 
